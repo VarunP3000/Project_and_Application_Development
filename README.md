@@ -1,2 +1,2 @@
-# IB-CS-2
+# Coding Projects
 Projects Worked On
